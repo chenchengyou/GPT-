@@ -1,0 +1,6 @@
+interface:
+  display_name: "NEWS"
+  short_description: "核验 AI 资讯，生成 5–8 条中文简报与 HTML 预览"
+  brand_color: "#143B68"
+  default_prompt: "使用 $news 收集近期 AI 资讯，核验来源并生成中文 HTML 简报。"
+
